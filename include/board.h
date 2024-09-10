@@ -13,6 +13,7 @@ public:
     void set_number(int row, int col, int num);
     int get_number(int row, int col);
     int get_number(int sub, int row, int col);
+    bool get_isFixed(int row, int col);
 
     
 
@@ -22,11 +23,11 @@ public:
 
     bool isValid(int row, int col, int num);
 
-    void initialize();
+    void initialize(int level);
 
     std::vector<int> get_shuffled_numbers();
     bool solve();
-    void remove_numbers();
+    void remove_numbers(int nums_to_remove);
 
 
 private:

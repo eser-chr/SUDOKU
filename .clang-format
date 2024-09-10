@@ -1,0 +1,6 @@
+BasedOnStyle: Google
+BreakBeforeBraces: Google
+AllowShortFunctionsOnASingleLine: All
+AllowShortBlocksOnASingleLine: All
+AllowShortIfStatementsOnASingleLine: All
+AllowShortBlocksOnASingleLine: Always

@@ -1,0 +1,3 @@
+/home/chris/Desktop/SUDOKU/build/CMakeFiles/play.dir
+/home/chris/Desktop/SUDOKU/build/CMakeFiles/edit_cache.dir
+/home/chris/Desktop/SUDOKU/build/CMakeFiles/rebuild_cache.dir
